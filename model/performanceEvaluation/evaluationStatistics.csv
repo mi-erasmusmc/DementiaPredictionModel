@@ -1,0 +1,39 @@
+"evaluation","metric","value"
+"Test","populationSize",242999
+"Test","outcomeCount",9494
+"Test","AUROC",0.806842733391154
+"Test","95% lower AUROC",0.802615249650042
+"Test","95% upper AUROC",0.811070217132266
+"Test","AUPRC",0.139295327052553
+"Test","brier score",0.0352918780522525
+"Test","brier score scaled",0.0651794864069557
+"Test","Eavg",0.00178153682728456
+"Test","E90",0.00385016917524124
+"Test","Emax",0.278347179250951
+"Test","calibrationInLarge mean prediction",0.0392968105790328
+"Test","calibrationInLarge observed risk",0.0390701196301219
+"Test","calibrationInLarge intercept",-0.00645733862738845
+"Test","weak calibration intercept",-0.0278196436914321
+"Test","weak calibration gradient",0.99180977682413
+"Test","Hosmer-Lemeshow calibration intercept",0.000416339062334795
+"Test","Hosmer-Lemeshow calibration gradient",0.984748047877892
+"Test","Average Precision",0.139321446930331
+"Train","populationSize",729000
+"Train","outcomeCount",28484
+"Train","AUROC",0.809354792337405
+"Train","95% lower AUROC",0.806945704257579
+"Train","95% upper AUROC",0.811763880417231
+"Train","AUPRC",0.143054385479976
+"Train","brier score",0.0352091610427384
+"Train","brier score scaled",0.0622399143536968
+"Train","Eavg",0.00194291123408304
+"Train","E90",0.00388467842373108
+"Train","Emax",0.21003445277119
+"Train","calibrationInLarge mean prediction",0.0390726979794173
+"Train","calibrationInLarge observed risk",0.0390727023319616
+"Train","calibrationInLarge intercept",1.24305275412755e-07
+"Train","weak calibration intercept",0.0136678111413969
+"Train","weak calibration gradient",1.00523823802315
+"Train","Hosmer-Lemeshow calibration intercept",0.000308548027604871
+"Train","Hosmer-Lemeshow calibration gradient",0.992314023919257
+"Train","Average Precision",0.143014107062568

@@ -1,0 +1,23 @@
+{
+  "analysisId": "OPEHR_Pars",
+  "analysisSource": "",
+  "developmentDatabase": "cdm_optum_ehr_v2247",
+  "attrition": {
+    "outcomeId": [6243, 6243, 6243, 6243, 6243],
+    "description": ["Original cohorts", "Initial plpData cohort or population", "First Exposure", "At least 365 days of observation prior", "Removing non-outcome subjects with insufficient time at risk (if any)"],
+    "targetCount": [1000000, 1000000, 1000000, 1000000, 971999],
+    "uniquePeople": [1000000, 1000000, 1000000, 1000000, 971999],
+    "outcomes": [48873, 37978, 37978, 37978, 37978],
+    "attr_class": "data.frame",
+    "attr_row.names": [1, 2, 3, 4, 5]
+  },
+  "trainingTime": "56.989294052124 secs",
+  "trainingDate": "2023-05-04",
+  "modelName": "logistic",
+  "finalModelParameters": {
+    "variance": [0.8181, 0.5062, 0.24, 0.0542, 0.096, 0.0002, 0, 0.1264, 0.0012, 0, 0, 0, 0, 0.0271, 0, 0, 0, 0.0723, 0.0055, 0, 0, 0, 0.0003, 0, 0, 0, 0, 0, 0, 0, 0.0041, 0, 0, 0, 0.0107, 0, 0, 0.0088, 0.0039, 0.0051, 0.0034, 0, 0.0022, 0.0009, 0, 0.0079, 0, 0, 0, 0.0028, 0, 0, 0.0083],
+    "log_likelihood": -102012.946
+  },
+  "hyperParamSearch": null,
+  "developmentDatabaseId": "cdm_optum_ehr_v2247"
+}

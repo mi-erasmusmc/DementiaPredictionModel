@@ -1,0 +1,55 @@
+"covariateId","covariateName","analysisId","conceptId","covariateValue"
+11003,"age group:  55 -  59",3,0,-2.34989809708928
+12003,"age group:  60 -  64",3,0,-1.84848878856144
+13003,"age group:  65 -  69",3,0,-1.2726764105808
+208003080,"Cohort_covariate during day -365 through 0 days relative to index:  All events of Seizure  ",2080,-1,0.923717748203409
+16003,"age group:  80 -  84",3,0,0.805100622219866
+1111712117,"Cohort_covariate during day -365 through 0 days relative to index:  First occurrence of Alcoholism  ",11117,-1,0.698487485979909
+14003,"age group:  70 -  74",3,0,-0.605099379195122
+1062811628,"Cohort_covariate during day -365 through 0 days relative to index:  Earliest event of Major depressive disorder  ",10628,-1,0.427781062450816
+1115212152,"Cohort_covariate during day -365 through 0 days relative to index:  ANTIEPILEPTICS  ",11152,-1,0.268956943879524
+1116012160,"Cohort_covariate during day -365 through 0 days relative to index:  Urinary tract infectious disease  ",11160,-1,0.243582811125888
+1120012200,"Cohort_covariate during day -365 through 0 days relative to index:  Any cancer excl prostate and benign  ",11200,-1,-0.236320035812881
+1117512175,"Cohort_covariate during day -365 through 0 days relative to index:  First Type 2 Diabetes Mellitus DM  ",11175,-1,0.230991990228599
+1111912119,"Cohort_covariate during day -365 through 0 days relative to index:  Smoking  ",11119,-1,0.193216941853511
+1116312163,"Cohort_covariate during day -365 through 0 days relative to index:  All occurrences of Anemia  ",11163,-1,0.185639633881259
+1114012140,"Cohort_covariate during day -365 through 0 days relative to index:  First obesity  ",11140,-1,-0.16693301978889
+1116112161,"Cohort_covariate during day -365 through 0 days relative to index:  acetaminophen exposures w 0d prior obsv  ",11161,-1,0.162948854773515
+1116512165,"Cohort_covariate during day -365 through 0 days relative to index:  First occurrence of Anxiety  ",11165,-1,0.151387961881842
+1118012180,"Cohort_covariate during day -365 through 0 days relative to index:  First Hypertension  ",11180,-1,0.138111532955001
+1116912169,"Cohort_covariate during day -365 through 0 days relative to index:  First chronic kidney disease or end stage renal disease  ",11169,-1,0.121649061349766
+208603086,"Cohort_covariate during day -365 through 0 days relative to index:  Earliest occurrence of Heart failure  ",2086,-1,0.0909123117601774
+1117112171,"Cohort_covariate during day -365 through 0 days relative to index:  Earliest occurrence of chronic obstructive pulmonary disease  ",11171,-1,0.0765602851919526
+1112412124,"Cohort_covariate during day -365 through 0 days relative to index:  First hyperlipidemia  ",11124,-1,-0.0464481000090672
+8507001,"gender = MALE",1,8507,-0.0405938056174018
+1041011410,"Cohort_covariate during day -365 through 0 days relative to index:  Atrial Fibrillation  ",10410,-1,0
+1116812168,"Cohort_covariate during day -365 through 0 days relative to index:  HORMONAL CONTRACEPTIVES  ",11168,-1,0
+1071211712,"Cohort_covariate during day -365 through 0 days relative to index:  All events of Acute Kidney Injury  ",10712,-1,0
+1064611646,"Cohort_covariate during day -365 through 0 days relative to index:  Earliest event of Coronary artery disease  ",10646,-1,0
+1117412174,"Cohort_covariate during day -365 through 0 days relative to index:  Persons with new type 1 diabetes  ",11174,-1,0
+206903069,"Cohort_covariate during day -365 through 0 days relative to index:  All events of Deep Vein Thrombosis  ",2069,-1,0
+1117712177,"Cohort_covariate during day -365 through 0 days relative to index:  All occurrences of Dyspnea  ",11177,-1,0
+1117812178,"Cohort_covariate during day -365 through 0 days relative to index:  All occurrences of Edema  ",11178,-1,0
+1113912139,"Cohort_covariate during day -365 through 0 days relative to index:  First Gastroesophageal reflux disease  ",11139,-1,0
+1117912179,"Cohort_covariate during day -365 through 0 days relative to index:  All Acute gastrointestinal bleeding  ",11179,-1,0
+1112812128,"Cohort_covariate during day -365 through 0 days relative to index:  Earliest Heart valve disorder  ",11128,-1,0
+1112212122,"Cohort_covariate during day -365 through 0 days relative to index:  Earliest Chronic hepatitis  ",11122,-1,0
+1112712127,"Cohort_covariate during day -365 through 0 days relative to index:  First hypothyroidism  ",11127,-1,0
+1114312143,"Cohort_covariate during day -365 through 0 days relative to index:  First Inflammatory Bowel Disease  ",11143,-1,0
+1112912129,"Cohort_covariate during day -365 through 0 days relative to index:  First Low back pain  ",11129,-1,0
+1113112131,"Cohort_covariate during day -365 through 0 days relative to index:  First occurrence of neuropathy  ",11131,-1,0
+1115112151,"Cohort_covariate during day -365 through 0 days relative to index:  Opioids  ",11151,-1,0
+1115912159,"Cohort_covariate during day -365 through 0 days relative to index:  First Osteoporosis  ",11159,-1,0
+621807218,"Cohort_covariate during day -365 through 0 days relative to index:  first peripheral vascular disease  ",6218,-1,0
+1118112181,"Cohort_covariate during day -365 through 0 days relative to index:  All occurrences of Pneumonia  ",11181,-1,0
+1113812138,"Cohort_covariate during day -365 through 0 days relative to index:  Acute Respiratory failure  ",11138,-1,0
+804009040,"Cohort_covariate during day -365 through 0 days relative to index:  Angina events v2  ",8040,-1,0
+1118212182,"Cohort_covariate during day -365 through 0 days relative to index:  Earliest event of Rheumatoid Arthritis  ",11182,-1,0
+1113612136,"Cohort_covariate during day -365 through 0 days relative to index:  All occurrences of Sepsis  ",11136,-1,0
+1112112121,"Cohort_covariate during day -365 through 0 days relative to index:  All occurrences of skin ulcer  ",11121,-1,0
+1112012120,"Cohort_covariate during day -365 through 0 days relative to index:  First sleep apnea  ",11120,-1,0
+1115012150,"Cohort_covariate during day -365 through 0 days relative to index:  STEROIDS  ",11150,-1,0
+208703087,"Cohort_covariate during day -365 through 0 days relative to index:  All Non-hemorrhagic Stroke inpatient   ",2087,-1,0
+1115812158,"Cohort_covariate during day -365 through 0 days relative to index:  First Osteoarthritis  ",11158,-1,0
+695207952,"Cohort_covariate during day -365 through 0 days relative to index:  aspirin exposures w 0d prior obsv  ",6952,-1,0
+1111612116,"Cohort_covariate during day -365 through 0 days relative to index:  First occurrence of Asthma  ",11116,-1,0

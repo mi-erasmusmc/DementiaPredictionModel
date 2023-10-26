@@ -1,0 +1,12 @@
+{
+  "PackageVersion": {
+    "rVersion": "R version 4.2.2 (2022-10-31 ucrt)",
+    "packageVersion": "6.3.1.9000"
+  },
+  "PlatformDetails": {
+    "RAM": []
+  },
+  "TotalExecutionElapsedTime": 1.7432,
+  "ExecutionDateTime": "2023-05-04 20:19:20",
+  "Log": "plpLog"
+}
